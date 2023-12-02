@@ -1,0 +1,15 @@
+
+    .product{
+        display: flex;
+        justify-content: space-between;  
+        max-width: 1000px; 
+        flex-wrap: wrap;
+        text-align: center;
+        .item{
+           // background-color: aqua;
+            width: 30%;
+            background-color: rgb(174, 229, 236);
+            padding-top: 20px;
+        }
+
+    }

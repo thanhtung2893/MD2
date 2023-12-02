@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      
+      "id":1,
+      "image":"https://www.newfeelstore.se/wp-content/uploads/2021/01/4901777260368.jpg",
+      "name":"Boss",
+      "price":10000
+    },
+    
+    {
+      "id":2,
+      "image":"https://media.starrymart.co.uk/media/catalog/product/cache/ddcfbae445085ab8117c2d65e3aabc27/4/5/4514603410617.jpg",
+      "name":"Morning",
+      "price":12000
+    },
+    {
+      "id":3,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJgd7H-N9jYLkqGs73Zu5k2stYKBkRvOeFw&usqp=CAU",
+      "name":"Black",
+      "price":15000
+    },
+    {
+      "id":4,
+      "image":"https://m.media-amazon.com/images/I/51yICNNOSkL.jpg",
+      "name":"Wonda",
+      "price":17000
+    },
+    {
+      "id":5,
+      "image":"https://akuruhifood.com/Image/Picture/N%C6%B0%E1%BB%9Bc%20u%E1%BB%91ng/caphe%20nhat%20ban%204901777255586.jpg",
+      "name":"Aroma",
+      "price":11000
+    },
+    {
+      "id":6,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_zuMmmj-UzhN1kH71rM3fNF_t5a_Tyq_UNVMqQD4WAUYeGooIG8u_XMAdpCz_g9lhIrQ&usqp=CAU",
+      "name":"Premium",
+      "price":18000
+    }
+  ]
+
+}
+
+
+    
+  
+     
+       
+       
+      
+
+    
+    
